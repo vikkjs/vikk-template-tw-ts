@@ -6,9 +6,7 @@
         "preview": "vite preview"
     },
     "devDependencies": {
-        "vite": "^7.1.0"
-    },
-    "dependencies": {
+        "vite": "^7.1.0",
         "@tailwindcss/vite": "^4.1.13",
         "tailwindcss": "^4.1.13",
         "vikk": "^1.1.3"
