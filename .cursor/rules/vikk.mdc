@@ -130,3 +130,6 @@ function App() {
 }
 document.body.append(<App />)
 ```
+
+## Notes
+- Fragments (<>) are not supported in Vikk
