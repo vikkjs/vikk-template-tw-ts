@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+This project uses a custom framework called Vikk, NOT React.
+Vikk uses vanilla js dependencies, not react specific versions.
